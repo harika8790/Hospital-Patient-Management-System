@@ -21,6 +21,4 @@ A relational database project designed to manage patients, doctors, appointments
    ```sql
    CREATE DATABASE hospital_db;
    USE hospital_db;
-'''
-Designed and implemented a hospital database using MySQL, including patient tracking, appointment scheduling, and prescription management. Wrote queries to analyze doctor workloads and patient wait times.
-'''
+
